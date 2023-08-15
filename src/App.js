@@ -1,24 +1,33 @@
-import logo from './logo.svg';
+import { useEffect } from 'react';
+import Aos from 'aos';
 import './App.css';
+import React from 'react';
+
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
+import Hero from './components/UI/Hero';
+import UMKM from './components/UI/UMKIM';
+import Modal from './components/UI/Modal';
 
 function App() {
+
+  useEffect(() => {
+    Aos.init();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      <Header />
+      <main>
+        <Hero />
+        <div className='mt-0 md:mt-10'>
+          <UMKM />
+        </div>
+        
+      </main>
+      <Footer />
+
+    </React.Fragment>
   );
 }
 
