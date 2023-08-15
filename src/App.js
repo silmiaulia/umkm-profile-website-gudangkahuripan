@@ -7,7 +7,7 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Hero from './components/UI/Hero';
 import UMKM from './components/UI/UMKIM';
-import Modal from './components/UI/Modal';
+// import Modal from './components/UI/Modal';
 
 function App() {
 
