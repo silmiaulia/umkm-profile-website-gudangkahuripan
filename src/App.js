@@ -7,7 +7,8 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import Hero from './components/UI/Hero';
 import UMKM from './components/UI/UMKIM';
-// import Modal from './components/UI/Modal';
+import Contact from './components/UI/Contact';
+
 
 function App() {
 
@@ -23,7 +24,7 @@ function App() {
         <div className='mt-0 md:mt-10'>
           <UMKM />
         </div>
-        
+        <Contact />
       </main>
       <Footer />
 

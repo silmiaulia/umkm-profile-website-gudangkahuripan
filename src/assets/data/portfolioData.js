@@ -11,7 +11,7 @@ const umkm = [
     instagramUrl: "#",
     instagramUsername: "asepkripik",
     noHp: "0812238080311",
-    lokasi: "Desa gudang kahuripan, RW/RW 001/013 No. 4",
+    lokasi: "Desa gudang kahuripan, RW/RW 001/013 No. 04 ",
     shopeeUrl: "#",
     shopeeName: "lorem"
   },
