@@ -29,10 +29,9 @@ const Hero = () => {
                         <p data-aos='fade-left' data-aos-duration='1800'
                         className="flex gap-2 mt-7 text-headingColor font-[500] text-[15px]
                         leading-7 sm:pl-0 sm:pr-10">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                            Necessitatibus est pariatur dolores nostrum itaque aperiam 
-                            esse cum. Aliquam, recusandae veritatis accusamus, nam libero, 
-                            et praesentium pariatur nesciunt voluptatum nisi quae?
+                        Website ini hadir sebagai jembatan antara Anda dan keragaman Usaha Mikro, Kecil, dan Menengah (UMKM) yang ada di Desa Gudangkahuripan. 
+                        Temukan produk unik, dan layanan berkualitas yang dihadirkan oleh para pengusaha lokal kami. 
+                        Bergabunglah dalam perjalanan mendukung pertumbuhan dan keberhasilan UMKM Desa Gudangkahuripan."
                         </p>
                     </div>
 

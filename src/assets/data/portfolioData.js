@@ -28,7 +28,8 @@ const umkm = [
     noHp: "0812238080311",
     lokasi: "Desa gudang kahuripan, RW/RW 001/013 No. 4",
     shopeeUrl: "#",
-    shopeeName: "lorem"
+    shopeeName: "lorem",
+    mapsURK: "#"
   },
   {
     id: "03",

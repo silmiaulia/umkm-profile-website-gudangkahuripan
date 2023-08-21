@@ -21,7 +21,8 @@ const Footer = () => {
 
                 <div className="w-full sm:w-1/2">
                     <p className="text-gray-300 leading-7 mt-4 sm:mt-0">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur explicabo libero porro, possimus natus sapiente reprehenderit quisquam minima. Amet dolore et vel molestias, quis esse voluptates. In hic asperiores ipsam.
+                        Website ini hadir sebagai jembatan antara Anda dan keragaman Usaha Mikro, Kecil, dan Menengah (UMKM) yang ada di Desa Gudangkahuripan. 
+                        Temukan produk unik, dan layanan berkualitas yang dihadirkan oleh para pengusaha lokal kami.     
                     </p>
 
                     <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10">
@@ -77,7 +78,7 @@ const Footer = () => {
                     </div>
 
                     <div>
-                        <p className="text-gray-400 text-[14px]">Dikembangkan oleh Tim KKN Desa Gudangkahuripan 2023</p>
+                        <p className="text-gray-400 text-[14px]">Dikembangkan oleh Tim KKN UPI Desa Gudangkahuripan 2023</p>
                     </div>
                 </div>
             </div>

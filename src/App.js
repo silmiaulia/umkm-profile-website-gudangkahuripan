@@ -8,6 +8,7 @@ import Footer from './components/Footer/Footer';
 import Hero from './components/UI/Hero';
 import UMKM from './components/UI/UMKIM';
 import Contact from './components/UI/Contact';
+import Peta from './components/UI/Peta';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Header />
       <main>
         <Hero />
+        <Peta />
         <div className='mt-0 md:mt-10'>
           <UMKM />
         </div>
