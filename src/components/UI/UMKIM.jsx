@@ -4,14 +4,14 @@ import Modal from "./Modal"
 
 const UMKM = () => {
 
-    const [nextItems, setNextItems] = useState(6)
+    const [nextItems, setNextItems] = useState(9)
     const [umkm, setUMKM] = useState(data)
     const [selectTab, setSelectTab] = useState('all')
     const [showModal, setShowModal] = useState(false)
     const [activeID, setActiveID] = useState(null)
 
     const loadMoreHandler = () => {
-        setNextItems(prev=> prev + 3)
+        setNextItems(prev=> prev + 6)
     };
 
     const showModalHandler = (id) => {
@@ -27,6 +27,11 @@ const UMKM = () => {
 
         if(selectTab==='kuliner'){
             const filteredData = data.filter(item=> item.category==='kuliner')
+            setUMKM(filteredData)
+        }
+
+        if(selectTab==='pakaian'){
+            const filteredData = data.filter(item=> item.category==='pakaian')
             setUMKM(filteredData)
         }
 
@@ -57,7 +62,12 @@ const UMKM = () => {
                             Kuliner
                         </button>
 
-                        <button onClick={()=>setSelectTab('all')} className="text-smalltextColor border border-solid border-smalltextColor py-1 px-4
+                        <button onClick={()=>setSelectTab('pakaian')} className="text-smalltextColor border border-solid border-smalltextColor py-1 px-4
+                        rounded-[8px]">
+                            Pakaian
+                        </button>
+
+                        <button onClick={()=>setSelectTab('lainnya')} className="text-smalltextColor border border-solid border-smalltextColor py-1 px-4
                         rounded-[8px]">
                             Lainnya
                         </button>

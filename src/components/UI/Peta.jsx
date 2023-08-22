@@ -8,7 +8,7 @@ function Peta() {
             <div className="container">
 
                 <h2 className="flex justify-center text-headingColor font-[700] text-[2rem] mb-5">
-                    Lokasi Desa Gudangkahuripan
+                    Peta Sebaran UMKM
                 </h2>
 
                 <div className="md:flex justify-start items-start">

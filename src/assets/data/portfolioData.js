@@ -6,157 +6,195 @@ const umkm = [
     imgUrl: umkmImg1,
     category: "kuliner",
     title: "Keripik Pak Usep",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+    description: "Keripik Pak Usep sudah ada dari tahun 1997,keripik ini ada yg berbentuk panjang dan bulat.Sudah supplier sampai ke Kota Jakarta dan Kota Bandung setiap seminggu sekali.Produksi setiap harinya mencapai 2,5 kuintal.",
     instagramUrl: "#",
-    instagramUsername: "asepkripik",
-    noHp: "0812238080311",
-    lokasi: "Desa gudang kahuripan, RW/RW 001/013 No. 04 ",
+    instagramUsername: "-",
+    noHp: "085294347746",
+    lokasi: "Desa gudang kahuripan, RT.01/RW.13 No. 4",
     shopeeUrl: "#",
-    shopeeName: "lorem"
+    shopeeName: "-"
   },
-  {
+{
     id: "02",
     imgUrl: umkmImg1,
     category: "kuliner",
     title: "Catering Ibu Titin",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe! Lorem ipsum dolor sit, Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    instagramUrl: "https://goo.gl/maps/oy3WXZ4YeENwpUEu6",
-    instagramUsername: "asepkripik",
-    noHp: "0812238080311",
-    lokasi: "Desa gudang kahuripan, RW/RW 001/013 No. 4",
+    description: "Sudah berjualan sejak tahun 2010.  Semua kue di produksi sendiri,berbagai macam snack seperti kue basah dan menerima pesanan snack box. Kisaran kuenya dari 1.500 – 3.000rb.",
+    instagramUrl: "https://instagram.com/titindianh?igshid=NTc4MTIwNjQ2YQ==",
+    instagramUsername: "titindianh",
+    noHp: "085861011455",
+    lokasi: "Desa gudang kahuripan, RT.03/RW.06 No. 99",
     shopeeUrl: "#",
-    shopeeName: "lorem",
-    mapsURK: "#"
+    shopeeName: "-"
   },
-  {
+{
     id: "03",
     imgUrl: umkmImg1,
-    category: "Fashion",
-    title: "Baelish ",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    instagramUrl: "https://goo.gl/maps/oy3WXZ4YeENwpUEu6",
-    instagramUsername: "asepkripik",
-    noHp: "0812238080311",
-    lokasi: "Desa gudang kahuripan, RW/RW 001/013 No. 4",
-    shopeeUrl: "#",
-    shopeeName: "lorem"
+    category: "pakaian",
+    title: "Pakaian Dewasa",
+    description: "Menjual Produk kebutuhan Fashion Pria dan Wanita Dewasa Secara Online melalui Marketplace Platform Digital (Shopee, Lazada, Tiktok, Tokopedia)",
+    instagramUrl: "https://instagram.com/alva.id.store?igshid=NTc4MTIwNjQ2YQ==",
+    instagramUsername: "alva.id.store",
+    noHp: "0895375471233",
+    lokasi: "Kp. Andir RT.02/RW.15 Desa Gudang Kahuripan",
+    shopeeUrl: "http://shopee.co.id/mamahtami",
+    shopeeName: "ALVA.id Store"
   },
-  {
+{
     id: "04",
     imgUrl: umkmImg1,
-    category: "kuliner",
-    title: "Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    category: "pakaian",
+    title: "Baelish",
+    description: "Baelish kids menjual baju anak dari usia 1-5 tahun bahkan ada juga dari usia newborn.Baelish kids berdiri sejak tahun 2020.",
+    instagramUsername: "baelish.kids",
+    noHp: "08817736557",
+    lokasi: "Kp Andir RT.02/RW.15",
+    shopeeUrl: "https://shp.ee/zztez8u",
+    shopeeName: "BAELISH KIDS"
   },
-  {
+{
     id: "05",
     imgUrl: umkmImg1,
-    category: "Web Design",
-    title: "Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    category: "kuliner",
+    title: "Rangginang",
+    description: "Usaha ini mulai berdiri pada tahun 2005. Mulai berkembang sekarang sekarang karena sudah masuk toko dan sudah banyak peminat. Pertama mengisi ada di daerah Bogor di Pasar Buah dan bertahan hamper 3 tahun. Sampai akhirnya sekara sudah mempunyai 5 reseller. 1 reseller memegang 4-5 toko.Daerah Bandung yang terisi yaitu Tunggal,Etnik,Rotiku,dan daerah Buah Batu.",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "081320781176",
+    lokasi: "Kp Cihideung RT.03/RW.02 No. 176",
+    shopeeUrl: "#",
+    shopeeName: "-"
   },
-
-  {
+{
     id: "06",
     imgUrl: umkmImg1,
     category: "kuliner",
-    title: "Online Therapy Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    title: "Catering Bu Rika",
+    description: "Menerima pesanan nasi box untuk acara syukuran, arisan, dsb. Makanan yang dipesan bisa berupa nasi box, tumpeng , atau parasmanan. Bisa juga menerima panggilan  jasa masak untuk hajatan.",
+    instagramUrl: "#",
+    instagramUsername: "",
+    noHp: "0882000758412",
+    lokasi: "Kp. Andir RT.02/RW.05 No. 62",
+    shopeeUrl: "#",
+    shopeeName: ""
   },
-  {
+{
     id: "07",
     imgUrl: umkmImg1,
-    category: "Web Design",
-    title: "Appointment Booking Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    category: "kuliner",
+    title: "Susu Randa",
+    description: "Perpaduan susu murni dan Jelly dengan rasa yg berbeda.",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "082117518930",
+    lokasi: "Kp. Pasirjati RT.03/RW.12 No. 80",
+    shopeeUrl: "#",
+    shopeeName: "-"
   },
-  {
+{
     id: "08",
     imgUrl: umkmImg1,
-    category: "Web Design",
-    title: "Finance Technology Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    category: "kuliner",
+    title: "Kricu",
+    description: "Dalam usaha ini menyediakan berbagai anekan olahan seperti seroja, kricu, keripik Malaysia.",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "083822156024",
+    lokasi: "Kp Cihideunggudang RT.03/RW.04",
+    shopeeUrl: "#",
+    shopeeName: ""
   },
-  {
+{
     id: "09",
     imgUrl: umkmImg1,
-    category: "Ux",
-    title: "Video Conference Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    category: "lainnya",
+    title: "Lulur",
+    description: "Usaha ini mulai berdiri sejak tahun 2020. Memasarkan produknya secara online di beberapa e commerce. Disini menjual lulur tradisional dari bahan-bahan alami.",
+    instagramUrl: "https://instagram.com/adreena_official?igshid=NTc4MTIwNjQ2YQ==",
+    instagramUsername: "adrena_official",
+    noHp: "085156475843",
+    lokasi: " Kp. Pasir jati RT.02/RW.12",
+    shopeeUrl: "https://shp.ee/dwusnxu",
+    shopeeName: "herba.grosir99"
   },
-  {
+{
     id: "10",
     imgUrl: umkmImg1,
-    category: "Ux",
-    title: "File Sharing Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+    category: "kuliner",
+    title: "Kerupuk Rambak",
+    description: "Menjual berbagai jenis kerupuk seperti kerupuk rambak,jengkol,balimbing. Berdiri sekitar 20 tahun kebelakang. Bahan mentahnya dari Jawa Tengah,jadi hanya mengolah dan menggoreng",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "081322144182",
+    lokasi: "Batu Reok RT.01/RW.09",
+    shopeeUrl: "#",
+    shopeeName: "-"
   },
-  // {
-  //   id: "11",
-  //   imgUrl: portfolioImg04,
-  //   category: "Web Design",
-  //   title: "Landing Page",
-  //   description:
-  //     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-  //   technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-  //   siteUrl: "#",
-  // },
-  // {
-  //   id: "12",
-  //   imgUrl: portfolioImg05,
-  //   category: "Web Design",
-  //   title: "Landing Page",
-  //   description:
-  //     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-  //   technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-  //   siteUrl: "#",
-  // },
-  // {
-  //   id: "13",
-  //   imgUrl: portfolioImg06,
-  //   category: "Web Design",
-  //   title: "Online Therapy Website",
-  //   description:
-  //     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-  //   technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-  //   siteUrl: "#",
-  // },
-  // {
-  //   id: "14",
-  //   imgUrl: portfolioImg07,
-  //   category: "ux",
-  //   title: "Appointment Booking Website",
-  //   description:
-  //     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-  //   technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-  //   siteUrl: "#",
-  // },
+{
+    id: "11",
+    imgUrl: umkmImg1,
+    category: "kuliner",
+    title: "Bolu Jadoel",
+    description: "Bolu Jadoel terdapat di sekitaran Lembang,Cimahi paling jauh ke Subang,pernah juga dikirim ke Garut. Usaha ini dimulai sekitar 4 tahun yang lalu,awalnya dijual ke keluarga dan tetangga dekat.",
+    instagramUrl: "#",
+    instagramUsername: "",
+    noHp: "082116319029",
+    lokasi: " Kp Andir RT.02/RW.05 No. 1",
+    shopeeUrl: "#",
+    shopeeName: ""
+  },
+{
+    id: "12",
+    imgUrl: umkmImg1,
+    category: "kuliner",
+    title: "Rumah Kue Ule",
+    description: "Menyediakan kue2 jajanan pasar dan kue kering",
+    instagramUrl: "#",
+    instagramUsername: "",
+    noHp: "08112007386",
+    lokasi: " Jl. Bhakti Sejati RT.01/RW.09 No. 33",
+    shopeeUrl: "#",
+    shopeeName: ""
+  },
+{
+    id: "13",
+    imgUrl: umkmImg1,
+    category: "kuliner",
+    title: "Keripik Boga Rasa",
+    description: "Berdiri sejak tahun 1997. Cara pengolahan dengan cara direbus,dikukus terlebih dahulu baru di potong-potong. Di buat masih dengan cara tradisional. Pemasaran sudah hingga ke Malaysia. 1 bungkus 40.000rb sekitar 700-800 gram.",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "081222519944",
+    lokasi: "Kp. Andir RT.01/RW.06",
+    shopeeUrl: "#",
+    shopeeName: "-"
+  },
+{
+    id: "14",
+    imgUrl: umkmImg1,
+    category: "kuliner",
+    title: "Terasi",
+    description: "Sudah berdiri sekitar 8 tahun. Membeli terasi di Bandung secara kiloan dan tinggal mencitak saja.",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "083128941835",
+    lokasi: "Kp. Pasirwangi RT.02/RW.10",
+    shopeeUrl: "#",
+    shopeeName: "-"
+  },
+{
+    id: "15",
+    imgUrl: umkmImg1,
+    category: "lainnya",
+    title: "Pak Eno",
+    description: "Menjual pot wedding, menjual langsung ke orang dekorasi. Pot wedding ini terbuat dari bahan fiberglass. Selain pot wedding,disini juga menjual huruf-huruf timbul,patung,relief dan lainya yang berhubungan dengan fiberglass.",
+    instagramUrl: "#",
+    instagramUsername: "-",
+    noHp: "082130115080",
+    lokasi: "Kp. Andir RT.01/05",
+    shopeeUrl: "#",
+    shopeeName: "-"
+  },
 ];
 
 export default umkm;
