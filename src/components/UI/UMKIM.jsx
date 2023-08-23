@@ -85,7 +85,7 @@ const UMKM = () => {
                             data-aos-duration="1200" 
                             className="group max-w-full sm:w-[48.5%] md:w-[31.8%] lg:w-[32.2%] relative z-[1]">
                                 <figure>
-                                    <img className="rounded-[10px]" src={umkm.imgUrl} alt="" />
+                                    <img className="rounded-[10px]" src={umkm.imgUrl1} alt="" />
                                 </figure>
 
                                 <div className="w-full h-full bg-headingColor bg-opacity-30 absolute top-0 left-0 z-[5] 
