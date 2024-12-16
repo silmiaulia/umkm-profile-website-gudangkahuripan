@@ -3,11 +3,11 @@ This website is dedicated to promoting local businesses within the Gudangkahurip
 
 🌐 Visit the Website: [Gudangkahuripan UMKM Website](https://umkm-gudangkahuripan.netlify.app/)
 
-# Features
+# Key Features
 - Business Listings: Displays all local businesses in Gudangkahuripan with details like name, photo, contact information, and a brief description.
-- UMKM Map: A custom-built map to pinpoint the exact location of every business in the Gudangkahuripan area.
+- UMKM Ditribution Map: A custom-built map to pinpoint the exact location of every business in the Gudangkahuripan area.
 - Responsive Design: Tailored for seamless use across devices, from smartphones to desktops, using Tailwind CSS.
-- Search Functionality: Effortlessly find specific businesses or filter by category.
+- Search Functionality: Effortlessly filter local business by category.
 - Contact Information: Easy access to phone numbers, social media, or e-commerce for direct engagement.
 
 # Technologies Used
